@@ -27,7 +27,7 @@ body::before {
     content: "";
     position: fixed;
     inset: 0;
-    background: url("/background-complexo-xp.png") center center / cover no-repeat;
+    background: url("background-complexo-xp.png") center center / cover no-repeat;
     filter: blur(6px) brightness(0.8);
     transform: scale(1);
     animation: zoomBg 20s infinite alternate ease-in-out;
